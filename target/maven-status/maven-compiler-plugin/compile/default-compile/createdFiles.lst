@@ -1,0 +1,12 @@
+es\dam\ad05\recetario\model\Paso.class
+es\dam\ad05\recetario\model\Receta.class
+es\dam\ad05\recetario\RecetarioApplication.class
+es\dam\ad05\recetario\web\RecetaForm.class
+es\dam\ad05\recetario\web\RecetaController.class
+es\dam\ad05\recetario\service\PasoService.class
+es\dam\ad05\recetario\repository\RecetaRepository.class
+es\dam\ad05\recetario\service\RecetaService.class
+es\dam\ad05\recetario\web\PasoForm.class
+es\dam\ad05\recetario\web\HomeController.class
+es\dam\ad05\recetario\repository\PasoRepository.class
+es\dam\ad05\recetario\web\PasoController.class
